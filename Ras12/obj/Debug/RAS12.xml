@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RAS12
+</name>
+</assembly>
+<members>
+<member name="T:RAS12.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RAS12.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RAS12.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:RAS12.My.Resources.Resources.Accessibility_Warning">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RAS12.My.Resources.Resources.DOLLARS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RAS12.My.Resources.Resources.HLP">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RAS12.My.Resources.Resources.MSGBOX03">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RAS12.My.Resources.Resources.Padlock_User_Control">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RAS12.My.Resources.Resources.PLANE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RAS12.My.Resources.Resources.Z_Wing1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RAS12.My.Resources.Resources.Z_Wing11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:RAS12.frmUploadFile4NonAir.UploadFile">
+ <summary>
+ Hiện bảng duyệt file để Upload, trả về giá trị integer:
+ </summary>
+ <returns>
+ = -1: upload xảy ra lỗi
+ =  0: nếu bấm cancel
+ = id: id file vừa upload
+ </returns>
+</member>
+</members>
+</doc>
